@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "EchoServer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "HTTP_ROOT": "C:\\Users\\Nicon\\source\\repos\\NicolasLabrousse\\eiin839\\TD1\\Echo\\ChatServer\\www\\pub\\",
+        "Clé": "Valeur"
+      }
+    }
+  }
+}
