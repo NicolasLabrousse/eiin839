@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace BasicWebServer
@@ -39,6 +40,14 @@ namespace BasicWebServer
                     //Console.ReadLine();
                 }
             }
+        }
+
+        public string Incr(string value)
+        {
+
+            string valIncr =  (int.Parse(value) + 1).ToString();
+            string jsonString = "{\"val\":" + valIncr + ", \"success\": true }";
+            return jsonString;
         }
 
     }

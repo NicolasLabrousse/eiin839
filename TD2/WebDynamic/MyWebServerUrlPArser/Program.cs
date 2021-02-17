@@ -97,6 +97,10 @@ namespace MyWebServerUrlPArser
 
                 //Console.WriteLine(segments[1]);
 
+                string result = "no result";
+                // Obtain a response object.
+                HttpListenerResponse response = context.Response;
+
                 if (segments[1] == "mymethods/")
                 {
                     Type type = typeof(BasicWebServer.MyMethods);
@@ -107,7 +111,7 @@ namespace MyWebServerUrlPArser
                     tab[1] = HttpUtility.ParseQueryString(request.Url.Query).Get("param2");
                     if (method != null)
                     {
-                        string result = (string)method.Invoke(c, tab);
+                        result = (string)method.Invoke(c, tab);
                         Console.WriteLine(result);
                     }
                     else
@@ -115,6 +119,19 @@ namespace MyWebServerUrlPArser
                         Console.WriteLine("Methode non trouvé");
                     }
                     //Console.WriteLine(result);
+                } else if (segments[1] == "webservice/")
+                {
+                    Type type = typeof(BasicWebServer.MyMethods);
+                    MethodInfo method = type.GetMethod(segments[2].TrimEnd('/'));
+                    BasicWebServer.MyMethods c = new MyMethods();
+                    object[] tab = new object[1];
+                    tab[0] = HttpUtility.ParseQueryString(request.Url.Query).Get("val");
+                    if (method != null)
+                    {
+                        result = (string)method.Invoke(c, tab);
+                        response.ContentType = "application/json";
+                        Console.WriteLine(result);
+                    }
                 }
 
                 //Console.ReadLine();
@@ -132,11 +149,10 @@ namespace MyWebServerUrlPArser
                 //
                 Console.WriteLine(documentContents);
 
-                // Obtain a response object.
-                HttpListenerResponse response = context.Response;
+    
 
                 // Construct a response.
-                string responseString = "<HTML><BODY> Hello world!</BODY></HTML>";
+                string responseString =  result;
                 byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
                 // Get a response stream and write the response to it.
                 response.ContentLength64 = buffer.Length;
