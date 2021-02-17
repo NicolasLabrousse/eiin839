@@ -1,0 +1,7 @@
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyWebServerUrlPArser\bin\Debug\MyWebServerUrlPArser.exe.config
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyWebServerUrlPArser\bin\Debug\MyWebServerUrlPArser.exe
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyWebServerUrlPArser\bin\Debug\MyWebServerUrlPArser.pdb
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyWebServerUrlPArser\obj\Debug\MyWebServerUrlPArser.csprojAssemblyReference.cache
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyWebServerUrlPArser\obj\Debug\MyWebServerUrlPArser.csproj.CoreCompileInputs.cache
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyWebServerUrlPArser\obj\Debug\MyWebServerUrlPArser.exe
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyWebServerUrlPArser\obj\Debug\MyWebServerUrlPArser.pdb

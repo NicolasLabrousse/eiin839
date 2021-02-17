@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
+using System.Reflection;
 using System.Text;
 using System.Web;
+using BasicWebServer;
 
 namespace BasicServerHTTPlistener
 {
@@ -87,10 +89,34 @@ namespace BasicServerHTTPlistener
                 Console.WriteLine(request.Url.LocalPath);
 
                 // parse path in url 
-                foreach (string str in request.Url.Segments)
+                //foreach (string str in request.Url.Segments)
+               // {
+                 //   Console.WriteLine(str);
+                //}
+                string[] segments = request.Url.Segments;
+
+                //Console.WriteLine(segments[1]);
+
+                if(segments[1]== "mymethods/")
                 {
-                    Console.WriteLine(str);
+                    Type type = typeof(BasicWebServer.MyMethods);
+                    MethodInfo method = type.GetMethod(segments[2].TrimEnd('/'));
+                    BasicWebServer.MyMethods c = new MyMethods();
+                    object[] tab = new object[2];
+                    tab[0] = HttpUtility.ParseQueryString(request.Url.Query).Get("param1");
+                    tab[1] = HttpUtility.ParseQueryString(request.Url.Query).Get("param2");
+                    if(method != null)
+                    {
+                        string result = (string)method.Invoke(c, tab);
+                        Console.WriteLine(result);
+                    } else
+                    {
+                        Console.WriteLine("Methode non trouvé");
+                    }
+                    //Console.WriteLine(result);
                 }
+                
+                //Console.ReadLine();
 
                 //get params un url. After ? and between &
 

@@ -1,0 +1,13 @@
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyExternalMethods\bin\Debug\netcoreapp3.1\MyExternalMethods.exe
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyExternalMethods\bin\Debug\netcoreapp3.1\MyExternalMethods.deps.json
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyExternalMethods\bin\Debug\netcoreapp3.1\MyExternalMethods.runtimeconfig.json
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyExternalMethods\bin\Debug\netcoreapp3.1\MyExternalMethods.runtimeconfig.dev.json
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyExternalMethods\bin\Debug\netcoreapp3.1\MyExternalMethods.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyExternalMethods\bin\Debug\netcoreapp3.1\MyExternalMethods.pdb
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyExternalMethods\obj\Debug\netcoreapp3.1\MyExternalMethods.csprojAssemblyReference.cache
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyExternalMethods\obj\Debug\netcoreapp3.1\MyExternalMethods.AssemblyInfoInputs.cache
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyExternalMethods\obj\Debug\netcoreapp3.1\MyExternalMethods.AssemblyInfo.cs
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyExternalMethods\obj\Debug\netcoreapp3.1\MyExternalMethods.csproj.CoreCompileInputs.cache
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyExternalMethods\obj\Debug\netcoreapp3.1\MyExternalMethods.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyExternalMethods\obj\Debug\netcoreapp3.1\MyExternalMethods.pdb
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD2\WebDynamic\MyExternalMethods\obj\Debug\netcoreapp3.1\MyExternalMethods.genruntimeconfig.cache

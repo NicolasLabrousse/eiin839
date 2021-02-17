@@ -1,0 +1,13 @@
+C:\Users\nicon\Source\Repos\NicolasLabrousse\eiin839\TD2\ExternalMethods\bin\Debug\netcoreapp3.1\ExternalMethods.exe
+C:\Users\nicon\Source\Repos\NicolasLabrousse\eiin839\TD2\ExternalMethods\bin\Debug\netcoreapp3.1\ExternalMethods.deps.json
+C:\Users\nicon\Source\Repos\NicolasLabrousse\eiin839\TD2\ExternalMethods\bin\Debug\netcoreapp3.1\ExternalMethods.runtimeconfig.json
+C:\Users\nicon\Source\Repos\NicolasLabrousse\eiin839\TD2\ExternalMethods\bin\Debug\netcoreapp3.1\ExternalMethods.runtimeconfig.dev.json
+C:\Users\nicon\Source\Repos\NicolasLabrousse\eiin839\TD2\ExternalMethods\bin\Debug\netcoreapp3.1\ExternalMethods.dll
+C:\Users\nicon\Source\Repos\NicolasLabrousse\eiin839\TD2\ExternalMethods\bin\Debug\netcoreapp3.1\ExternalMethods.pdb
+C:\Users\nicon\Source\Repos\NicolasLabrousse\eiin839\TD2\ExternalMethods\obj\Debug\netcoreapp3.1\ExternalMethods.csprojAssemblyReference.cache
+C:\Users\nicon\Source\Repos\NicolasLabrousse\eiin839\TD2\ExternalMethods\obj\Debug\netcoreapp3.1\ExternalMethods.AssemblyInfoInputs.cache
+C:\Users\nicon\Source\Repos\NicolasLabrousse\eiin839\TD2\ExternalMethods\obj\Debug\netcoreapp3.1\ExternalMethods.AssemblyInfo.cs
+C:\Users\nicon\Source\Repos\NicolasLabrousse\eiin839\TD2\ExternalMethods\obj\Debug\netcoreapp3.1\ExternalMethods.csproj.CoreCompileInputs.cache
+C:\Users\nicon\Source\Repos\NicolasLabrousse\eiin839\TD2\ExternalMethods\obj\Debug\netcoreapp3.1\ExternalMethods.dll
+C:\Users\nicon\Source\Repos\NicolasLabrousse\eiin839\TD2\ExternalMethods\obj\Debug\netcoreapp3.1\ExternalMethods.pdb
+C:\Users\nicon\Source\Repos\NicolasLabrousse\eiin839\TD2\ExternalMethods\obj\Debug\netcoreapp3.1\ExternalMethods.genruntimeconfig.cache
