@@ -1,0 +1,7 @@
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\SOAPCalculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\SOAPCalculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\SOAPCalculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\SOAPCalculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\SOAPCalculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\SOAPCalculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\SOAPCalculator\Calculator\obj\Debug\Calculator.pdb

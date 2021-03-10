@@ -1,0 +1,17 @@
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\bin\Debug\FindStation.exe.config
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\bin\Debug\FindStation.exe
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\bin\Debug\FindStation.pdb
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\bin\Debug\System.Memory.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\bin\Debug\System.Text.Json.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\bin\Debug\System.Buffers.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\obj\Debug\FindStation.csprojAssemblyReference.cache
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\obj\Debug\FindStation.exe.config
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\obj\Debug\FindStation.csproj.CoreCompileInputs.cache
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\obj\Debug\FindStation.csproj.CopyComplete
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\obj\Debug\FindStation.exe
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD3\RestWsContract\FindStation\obj\Debug\FindStation.pdb
