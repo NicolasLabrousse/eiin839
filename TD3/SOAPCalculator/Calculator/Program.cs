@@ -10,8 +10,11 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            ServiceCalculator.CalculatorSoapClient calculator = new ServiceCalculator.CalculatorSoapClient();
+            MyLocalCalculator.MathsOperationsClient calculator = new MyLocalCalculator.MathsOperationsClient();
             Console.WriteLine(calculator.Add(1, 2));
+            Console.WriteLine(calculator.Subtract(1, 2));
+            Console.WriteLine(calculator.Multiply(3,5));
+
             Console.ReadLine();
         }
     }

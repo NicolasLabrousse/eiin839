@@ -1,0 +1,7 @@
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\WCFIntroduction\WCFIntroduction\bin\Debug\WCFIntroduction.dll.config
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\WCFIntroduction\WCFIntroduction\bin\Debug\WCFIntroduction.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\WCFIntroduction\WCFIntroduction\bin\Debug\WCFIntroduction.pdb
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\WCFIntroduction\WCFIntroduction\obj\Debug\WCFIntroduction.csprojAssemblyReference.cache
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\WCFIntroduction\WCFIntroduction\obj\Debug\WCFIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\WCFIntroduction\WCFIntroduction\obj\Debug\WCFIntroduction.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\WCFIntroduction\WCFIntroduction\obj\Debug\WCFIntroduction.pdb

@@ -1,0 +1,7 @@
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\MathsLibrarySolution\MathsLibrary\bin\Debug\MathsLibrary.dll.config
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\MathsLibrarySolution\MathsLibrary\bin\Debug\MathsLibrary.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\MathsLibrarySolution\MathsLibrary\bin\Debug\MathsLibrary.pdb
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\MathsLibrarySolution\MathsLibrary\obj\Debug\MathsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\MathsLibrarySolution\MathsLibrary\obj\Debug\MathsLibrary.dll
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\MathsLibrarySolution\MathsLibrary\obj\Debug\MathsLibrary.pdb
+C:\Users\nicon\source\repos\NicolasLabrousse\eiin839\TD5\MathsLibrarySolution\MathsLibrary\obj\Debug\MathsLibrary.csprojAssemblyReference.cache
