@@ -60,12 +60,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Connected Services\MyLocalCalculator\Reference.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Compile>
-    <Compile Include="Connected Services\ServiceCalculator\Reference.cs">
+    <Compile Include="Connected Services\CalculatorService\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
@@ -75,39 +70,22 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Connected Services\MyLocalCalculator\Calculator.MyLocalCalculator.CompositeType.datasource">
+    <None Include="Connected Services\CalculatorService\Calculator.CalculatorService.CompositeType.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
-    <None Include="Connected Services\MyLocalCalculator\item.xsd">
+    <None Include="Connected Services\CalculatorService\item.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Connected Services\MyLocalCalculator\item1.xsd">
+    <None Include="Connected Services\CalculatorService\item1.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Connected Services\MyLocalCalculator\item2.xsd">
+    <None Include="Connected Services\CalculatorService\item2.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Connected Services\MyLocalCalculator\MathsOperations.wsdl" />
-    <None Include="Connected Services\ServiceCalculator\calculator.wsdl" />
+    <None Include="Connected Services\CalculatorService\MathsOperations.wsdl" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadataStorage Include="Connected Services\MyLocalCalculator\" />
-    <WCFMetadataStorage Include="Connected Services\ServiceCalculator\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Connected Services\ServiceCalculator\configuration91.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Connected Services\ServiceCalculator\configuration.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Connected Services\ServiceCalculator\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.cs</LastGenOutput>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
@@ -122,13 +100,19 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\MyLocalCalculator\configuration91.svcinfo" />
+    <WCFMetadataStorage Include="Connected Services\CalculatorService\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\MyLocalCalculator\configuration.svcinfo" />
+    <None Include="Connected Services\CalculatorService\item.disco" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\MyLocalCalculator\Reference.svcmap">
+    <None Include="Connected Services\CalculatorService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\CalculatorService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\CalculatorService\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>

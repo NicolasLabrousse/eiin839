@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <xs:import schemaLocation="http://localhost:8733/Design_Time_Addresses/MathsLibrary/Service1/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/MathsLibrary" />
+  <xs:import schemaLocation="http://localhost:8733/Design_Time_Addresses/MathsLibrary/MathsOperations/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/MathsLibrary" />
   <xs:element name="GetDataUsingDataContract">
     <xs:complexType>
       <xs:sequence>

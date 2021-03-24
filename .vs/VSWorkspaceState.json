@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\TD5",
+    "\\TD5\\MathsLibrarySolution",
     "\\TD5\\TD Authentification Access Service toward SOAP",
     "\\TD5\\TD Authentification Access Service toward SOAP\\AuthentifiedAccess",
-    "\\webFront"
+    "\\TD5\\TD Authentification Access Service toward SOAP\\AuthentifiedAccess\\AuthentifiedAccess"
   ],
-  "SelectedNode": "\\TD5\\TD Authentification Access Service toward SOAP\\AuthentifiedAccess\\AuthentifiedAccess.sln",
+  "SelectedNode": "\\TD5\\MathsLibrarySolution\\MathsLibrarySolution.sln",
   "PreviewInSolutionExplorer": false
 }

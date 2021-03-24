@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Calculator.MyLocalCalculator {
+namespace Calculator.CalculatorService {
     using System.Runtime.Serialization;
     using System;
     
@@ -75,14 +75,14 @@ namespace Calculator.MyLocalCalculator {
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    [System.ServiceModel.ServiceContractAttribute(ConfigurationName="MyLocalCalculator.IMathsOperations")]
+    [System.ServiceModel.ServiceContractAttribute(ConfigurationName="CalculatorService.IMathsOperations")]
     public interface IMathsOperations {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMathsOperations/GetDataUsingDataContract", ReplyAction="http://tempuri.org/IMathsOperations/GetDataUsingDataContractResponse")]
-        Calculator.MyLocalCalculator.CompositeType GetDataUsingDataContract(Calculator.MyLocalCalculator.CompositeType composite);
+        Calculator.CalculatorService.CompositeType GetDataUsingDataContract(Calculator.CalculatorService.CompositeType composite);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMathsOperations/GetDataUsingDataContract", ReplyAction="http://tempuri.org/IMathsOperations/GetDataUsingDataContractResponse")]
-        System.Threading.Tasks.Task<Calculator.MyLocalCalculator.CompositeType> GetDataUsingDataContractAsync(Calculator.MyLocalCalculator.CompositeType composite);
+        System.Threading.Tasks.Task<Calculator.CalculatorService.CompositeType> GetDataUsingDataContractAsync(Calculator.CalculatorService.CompositeType composite);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMathsOperations/Add", ReplyAction="http://tempuri.org/IMathsOperations/AddResponse")]
         int Add(int number1, int number2);
@@ -110,12 +110,12 @@ namespace Calculator.MyLocalCalculator {
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public interface IMathsOperationsChannel : Calculator.MyLocalCalculator.IMathsOperations, System.ServiceModel.IClientChannel {
+    public interface IMathsOperationsChannel : Calculator.CalculatorService.IMathsOperations, System.ServiceModel.IClientChannel {
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public partial class MathsOperationsClient : System.ServiceModel.ClientBase<Calculator.MyLocalCalculator.IMathsOperations>, Calculator.MyLocalCalculator.IMathsOperations {
+    public partial class MathsOperationsClient : System.ServiceModel.ClientBase<Calculator.CalculatorService.IMathsOperations>, Calculator.CalculatorService.IMathsOperations {
         
         public MathsOperationsClient() {
         }
@@ -136,11 +136,11 @@ namespace Calculator.MyLocalCalculator {
                 base(binding, remoteAddress) {
         }
         
-        public Calculator.MyLocalCalculator.CompositeType GetDataUsingDataContract(Calculator.MyLocalCalculator.CompositeType composite) {
+        public Calculator.CalculatorService.CompositeType GetDataUsingDataContract(Calculator.CalculatorService.CompositeType composite) {
             return base.Channel.GetDataUsingDataContract(composite);
         }
         
-        public System.Threading.Tasks.Task<Calculator.MyLocalCalculator.CompositeType> GetDataUsingDataContractAsync(Calculator.MyLocalCalculator.CompositeType composite) {
+        public System.Threading.Tasks.Task<Calculator.CalculatorService.CompositeType> GetDataUsingDataContractAsync(Calculator.CalculatorService.CompositeType composite) {
             return base.Channel.GetDataUsingDataContractAsync(composite);
         }
         

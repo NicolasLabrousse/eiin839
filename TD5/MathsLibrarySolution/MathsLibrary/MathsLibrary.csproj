@@ -50,8 +50,8 @@
     <Compile Include="MathsOperations.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config.rest" />
     <None Include="App.config" />
-    <None Include="App.config.soap" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
